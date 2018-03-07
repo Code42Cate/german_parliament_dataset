@@ -9,16 +9,25 @@
 8,Amthor, Philipp, CDU/CSU
 9,Amtsberg, Luise Bündnis, 90/Die Grünen
 10,Andreae, Kerstin Bündnis, 90/Die Grünen
+11,Annen, Niels, SPD
+12,Arndt-Brauer, Ingrid, SPD
 13,Aschenberg-Dugnus, Christine, FDP
 14,Auernhammer, Artur, CDU/CSU
 15,Aumer, Peter, CDU/CSU
 16,Badum, Lisa Bündnis, 90/Die Grünen
+17,Baehrens, Heike, SPD
 18,Bär, Dorothee, CDU/CSU
 19,Baerbock, Annalena Bündnis, 90/Die Grünen
+20,Bahr, Ulrike, SPD
 21,Bareiß, Thomas, CDU/CSU
+22,Barley, Dr. Katarina, SPD
+23,Barnett, Doris, SPD
 24,Barrientos, Simone, Die Linke
 25,Barthle, Norbert, CDU/CSU
+26,Bartke, Dr. Matthias, SPD
+27,Bartol, Sören, SPD
 28,Bartsch, Dr. Dietmar, Die Linke
+29,Bas, Bärbel, SPD
 30,Bauer, Nicole, FDP
 31,Baumann, Dr. Bernd, AfD
 32,Bause, Margarete Bündnis, 90/Die Grünen
@@ -38,6 +47,7 @@
 46,Beyer, Peter, CDU/CSU
 47,Biadacz, Marc, CDU/CSU
 48,Bilger, Steffen, CDU/CSU
+49,Binding (Heidelberg), Lothar, SPD
 50,Birkwald, Matthias W., Die Linke
 51,Bleck, Andreas, AfD
 52,Bleser, Peter, CDU/CSU
@@ -57,16 +67,22 @@
 66,Breher, Silvia, CDU/CSU
 67,Brehm, Sebastian, CDU/CSU
 68,Brehmer, Heike, CDU/CSU
+69,Breymaier, Leni, SPD
 70,Brinkhaus, Ralph, CDU/CSU
 71,Brodesser, Dr. Carsten, CDU/CSU
 72,Brugger, Agnieszka Bündnis, 90/Die Grünen
+73,Brunner, Dr. Karl-Heinz, SPD
 74,Buchholz, Christine, Die Linke
+75,Budde, Katrin, SPD
 76,Bühl, Marcus, AfD
+77,Bülow, Marco, SPD
 78,Büttner, Matthias, AfD
 79,Bull-Bischoff, Birke, Die Linke
+80,Burkert, Martin, SPD
 81,Buschmann, Dr. Marco, FDP
 82,Busen, Karlheinz, FDP
 83,Bystron, Petr, AfD
+84,Castellucci, Prof. Dr. Lars, SPD
 85,Cezanne, Jörg, Die Linke
 86,Christmann, Dr. Anna Bündnis, 90/Die Grünen
 87,Chrupalla, Tino, AfD
@@ -74,12 +90,17 @@
 89,Cotar, Joana, AfD
 90,Cronenberg, Carl-Julius, FDP
 91,Curio, Dr. Gottfried, AfD
+92,Daldrup, Bernhard, SPD
 93,Damerow, Astrid, CDU/CSU
 94,Dassler, Britta Katharina, FDP
 95,Dağdelen, Sevim, Die Linke
 96,De Masi, Fabio, Die Linke
+97,De Ridder, Dr. Daniela, SPD
 98,Dehm, Dr. Diether, Die Linke
 99,Deligöz, Ekin Bündnis, 90/Die Grünen
+100,Diaby, Dr. Karamba, SPD
+101,Dilcher, Esther, SPD
+102,Dittmar, Sabine, SPD
 103,Djir-Sarai, Bijan, FDP
 104,Dobrindt, Alexander, CDU/CSU
 105,Dörner, Katja Bündnis, 90/Die Grünen
@@ -96,18 +117,26 @@
 116,Elsner von Gronow, Berengar, AfD
 117,Erndl, Thomas, CDU/CSU
 118,Ernst, Klaus, Die Linke
+119,Esdar, Dr. Wiebke, SPD
+120,Esken, Saskia, SPD
 121,Espendiller, Dr. Michael, AfD
 122,Faber, Dr. Marcus, FDP
 123,Färber, Hermann, CDU/CSU
+124,Fahimi, Yasmin, SPD
+125,Fechner, Dr. Johannes, SPD
 126,Feiler, Uwe, CDU/CSU
+127,Felgentreu, Dr. Fritz, SPD
 128,Felser, Peter, AfD
 129,Ferlemann, Enak, CDU/CSU
 130,Ferschl, Susanne, Die Linke
 131,Fischer (Karlsruhe-Land), Axel E., CDU/CSU
 132,Flachsbarth, Dr. Maria, CDU/CSU
 133,Föst, Daniel, FDP
+134,Franke, Dr. Edgar, SPD
+135,Freese, Ulrich, SPD
 136,Frei, Thorsten, CDU/CSU
 137,Freihold, Brigitte, Die Linke
+138,Freitag, Dagmar, SPD
 139,Fricke, Otto, FDP
 140,Friedhoff, Dietmar, AfD
 141,Friedrich (Hof), Dr. Hans-Peter, CDU/CSU
@@ -117,6 +146,7 @@
 145,Frohnmaier, Markus, AfD
 146,Fuchtel, Hans-Joachim, CDU/CSU
 147,Gabelmann, Sylvia, Die Linke
+148,Gabriel, Sigmar, SPD
 149,Gädechens, Ingo, CDU/CSU
 150,Gastel, Matthias Bündnis, 90/Die Grünen
 151,Gauland, Dr. Alexander, AfD
@@ -124,18 +154,25 @@
 153,Gehring, Kai Bündnis, 90/Die Grünen
 154,Gehrke, Prof. Dr. Axel, AfD
 155,Gelbhaar, Stefan Bündnis, 90/Die Grünen
+156,Gerdes, Michael, SPD
 157,Gerig, Alois, CDU/CSU
+158,Gerster, Martin, SPD
 159,Gienger, Eberhard, CDU/CSU
 160,Glaser, Albrecht, AfD
+161,Glöckner, Angelika, SPD
 162,Gminder, Franziska, AfD
 163,Gnodtke, Eckhard, CDU/CSU
 164,Göring-Eckardt, Katrin Bündnis, 90/Die Grünen
 165,Gohlke, Nicole, Die Linke
 166,Gottberg, Wilhelm von, AfD
 167,Gottschalk, Kay, AfD
+168,Gremmels, Timon, SPD
+169,Griese, Kerstin, SPD
 170,Groden-Kranich, Ursula, CDU/CSU
 171,Gröhe, Hermann, CDU/CSU
 172,Gröhler, Klaus-Dieter, CDU/CSU
+173,Grötsch, Uli, SPD
+174,Groß, Michael, SPD
 175,Grosse-Brömer, Michael, CDU/CSU
 176,Grotelüschen, Astrid, CDU/CSU
 177,Grübel, Markus, CDU/CSU
@@ -149,13 +186,17 @@
 185,Haase, Christian, CDU/CSU
 186,Hacker, Thomas, FDP
 187,Hänsel, Heike, Die Linke
+188,Hagedorn, Bettina, SPD
+189,Hagl-Kehl, Rita, SPD
 190,Hahn, Dr. André, Die Linke
 191,Hahn, Florian, CDU/CSU
 192,Hajduk, Anja Bündnis, 90/Die Grünen
+193,Hakverdi, Metin, SPD
 194,Hampel, Armin-Paulus, AfD
 195,Harbarth, Dr. Stephan, CDU/CSU
 196,Harder-Kühnel, Mariana Iris, AfD
 197,Hardt, Jürgen, CDU/CSU
+198,Hartmann, Sebastian, SPD
 199,Hartmann, Verena, AfD
 200,Hartwig, Dr. Roland, AfD
 201,Haßelmann, Britta Bündnis, 90/Die Grünen
@@ -163,13 +204,19 @@
 203,Haug, Jochen, AfD
 204,Hauptmann, Mark, CDU/CSU
 205,Hebner, Martin, AfD
+206,Heidenblut, Dirk, SPD
 207,Heider, Dr. Matthias, CDU/CSU
+208,Heil (Peine), Hubertus, SPD
 209,Heil, Mechthild, CDU/CSU
 210,Heilmann, Thomas, CDU/CSU
 211,Heinrich (Chemnitz), Frank, CDU/CSU
+212,Heinrich, Gabriela, SPD
+213,Held, Marcus, SPD
 214,Helfrich, Mark, CDU/CSU
 215,Helling-Plahr, Katrin, FDP
+216,Hellmich, Wolfgang, SPD
 217,Hemmelgarn, Udo Theodor, AfD
+218,Hendricks, Dr. Barbara, SPD
 219,Henke, Rudolf, CDU/CSU
 220,Hennrich, Michael, CDU/CSU
 221,Henrichmann, Marc, CDU/CSU
@@ -177,16 +224,20 @@
 223,Herbst, Torsten, FDP
 224,Herdt, Waldemar, AfD
 225,Herrmann, Lars, AfD
+226,Herzog, Gustav, SPD
 227,Hess, Martin, AfD
 228,Hessel, Katja, FDP
 229,Heßenkemper, Prof. Dr. Heiko, AfD
 230,Heveling, Ansgar, CDU/CSU
+231,Hiller-Ohm, Gabriele, SPD
 232,Hilse, Karsten, AfD
 233,Hirte, Christian, CDU/CSU
 234,Hirte, Prof. Dr. Heribert, CDU/CSU
+235,Hitschler, Thomas, SPD
 236,Hocker, Dr. Gero Clemens, FDP
 237,Höchst, Nicole, AfD
 238,Höferlin, Manuel, FDP
+239,Högl, Dr. Eva, SPD
 240,Höhn, Matthias, Die Linke
 241,Hoffmann, Alexander, CDU/CSU
 242,Hoffmann, Dr. Bettina Bündnis, 90/Die Grünen
@@ -214,15 +265,24 @@
 264,Jung, Andreas, CDU/CSU
 265,Jung, Dr. Christian, FDP
 266,Jung, Ingmar, CDU/CSU
+267,Junge, Frank, SPD
+268,Juratovic, Josip, SPD
+269,Jurk, Thomas, SPD
+270,Kaczmarek, Oliver, SPD
+271,Kahrs, Johannes, SPD
+272,Kaiser, Elisabeth, SPD
 273,Kamann, Uwe, AfD
 274,Kappert-Gonther, Dr. Kirsten Bündnis, 90/Die Grünen
+275,Kapschack, Ralf, SPD
 276,Karl, Alois, CDU/CSU
 277,Karliczek, Anja, CDU/CSU
 278,Kartes, Torbjörn, CDU/CSU
 279,Kassner, Kerstin, Die Linke
+280,Katzmarek, Gabriele, SPD
 281,Kauder, Volker, CDU/CSU
 282,Kaufmann, Dr. Stefan, CDU/CSU
 283,Kekeritz, Uwe Bündnis, 90/Die Grünen
+284,Kelber, Ulrich, SPD
 285,Kemmer, Ronja, CDU/CSU
 286,Kemmerich, Thomas L., FDP
 287,Kessler, Dr. Achim, Die Linke
@@ -234,10 +294,13 @@
 293,Kindler, Sven-Christian Bündnis, 90/Die Grünen
 294,Kippels, Dr. Georg, CDU/CSU
 295,Kipping, Katja, Die Linke
+296,Kiziltepe, Cansel, SPD
+297,Klare, Arno, SPD
 298,Klein, Karsten, FDP
 299,Klein, Volkmar, CDU/CSU
 300,Klein-Schmeink, Maria Bündnis, 90/Die Grünen
 301,Kleinwächter, Norbert, AfD
+302,Klingbeil, Lars, SPD
 303,Klinge, Dr. Marcel, FDP
 304,Kloke, Katharina, FDP
 305,Kluckert, Daniela, FDP
@@ -247,13 +310,17 @@
 309,König, Jörn, AfD
 310,Koeppen, Jens, CDU/CSU
 311,Körber, Carsten, CDU/CSU
+312,Kofler, Dr. Bärbel, SPD
+313,Kolbe, Daniela, SPD
 314,Komning, Enrico, AfD
 315,Konrad, Carina, FDP
 316,Koob, Markus, CDU/CSU
+317,Korkmaz, Elvan, SPD
 318,Korte, Jan, Die Linke
 319,Kotré, Steffen, AfD
 320,Kotting-Uhl, Sylvia Bündnis, 90/Die Grünen
 321,Kraft, Dr. Rainer, AfD
+322,Kramme, Anette, SPD
 323,Krauß, Alexander, CDU/CSU
 324,Krellmann, Jutta, Die Linke
 325,Krichbaum, Gunther, CDU/CSU
@@ -270,11 +337,14 @@
 336,Kulitz, Alexander, FDP
 337,Kurth, Markus Bündnis, 90/Die Grünen
 338,Lämmel, Andreas G., CDU/CSU
+339,Lambrecht, Christine, SPD
 340,Lambsdorff, Alexander Graf, FDP
 341,Lamers, Prof. h. c. Dr. Karl A., CDU/CSU
 342,Landgraf, Katharina, CDU/CSU
+343,Lange (Backnang), Christian, SPD
 344,Lange, Ulrich, CDU/CSU
 345,Launert, Dr. Silke, CDU/CSU
+346,Lauterbach, Prof. Dr. Karl, SPD
 347,Lay, Caren, Die Linke
 348,Lazar, Monika Bündnis, 90/Die Grünen
 349,Lechte, Ulrich, FDP
@@ -290,21 +360,25 @@
 359,Leyen, Dr. Ursula von der, CDU/CSU
 360,Lezius, Antje, CDU/CSU
 361,Liebich, Stefan, Die Linke
+362,Lindh, Helge, SPD
 363,Lindholz, Andrea, CDU/CSU
 364,Lindner, Christian, FDP
 365,Lindner, Dr. Tobias Bündnis, 90/Die Grünen
 366,Link, Michael Georg, FDP
 367,Linnemann, Dr. Carsten, CDU/CSU
 368,Lips, Patricia, CDU/CSU
+369,Lischka, Burkhard, SPD
 370,Löbel, Nikolas, CDU/CSU
 371,Lötzsch, Dr. Gesine, Die Linke
 372,Loos, Bernhard, CDU/CSU
 373,Lucassen, Rüdiger, AfD
 374,Luczak, Dr. Jan-Marco, CDU/CSU
 375,Ludwig, Daniela, CDU/CSU
+376,Lühmann, Kirsten, SPD
 377,Luksic, Oliver, FDP
 378,Lutze, Thomas, Die Linke
 379,Maag, Karin, CDU/CSU
+380,Maas, Heiko, SPD
 381,Magnitz, Frank, AfD
 382,Magwas, Yvonne, CDU/CSU
 383,Maier, Jens, AfD
@@ -313,10 +387,14 @@
 386,Malsack-Winkemann, Dr. Birgit, AfD
 387,Mannes, Dr. Astrid, CDU/CSU
 388,Mansmann, Till, FDP
+389,Marks, Caren, SPD
 390,Marschall, Matern von, CDU/CSU
 391,Martens, Dr. Jürgen, FDP
 392,Marwitz, Hans-Georg von der, CDU/CSU
+393,Mast, Katja, SPD
+394,Matschie, Christoph, SPD
 395,Mattfeldt, Andreas, CDU/CSU
+396,Mattheis, Hilde, SPD
 397,Mayer (Altötting), Stephan, CDU/CSU
 398,Meiser, Pascal, Die Linke
 399,Meister, Dr. Michael, CDU/CSU
@@ -326,11 +404,17 @@
 403,Miazga, Corinna, AfD
 404,Michelbach, Dr. h. c. Hans, CDU/CSU
 405,Middelberg, Dr. Mathias, CDU/CSU
+406,Miersch, Dr. Matthias, SPD
 407,Mieruch, Mario, fraktionslos
 408,Mihalic, Irene Bündnis, 90/Die Grünen
+409,Mindrup, Klaus, SPD
+410,Mittag, Susanne, SPD
 411,Möhring, Cornelia, Die Linke
+412,Möller, Siemtje, SPD
 413,Möring, Karsten, CDU/CSU
 414,Mohamed Ali, Amira, Die Linke
+415,Mohrs, Falko, SPD
+416,Moll, Claudia, SPD
 417,Monstadt, Dietrich, CDU/CSU
 418,Mortler, Marlene, CDU/CSU
 419,Motschmann, Elisabeth, CDU/CSU
@@ -338,8 +422,10 @@
 421,Mrosek, Andreas, AfD
 422,Müller, Alexander, FDP
 423,Müller, Axel, CDU/CSU
+424,Müller, Bettina, SPD
 425,Müller (Braunschweig), Carsten, CDU/CSU
 426,Müller, Claudia Bündnis, 90/Die Grünen
+427,Müller (Chemnitz), Detlef, SPD
 428,Müller, Dr. Gerd, CDU/CSU
 429,Müller, Hansjörg, AfD
 430,Müller (Potsdam), Norbert, Die Linke
@@ -348,8 +434,11 @@
 433,Müller-Böhm, Roman, FDP
 434,Müller-Gemmeke, Beate Bündnis, 90/Die Grünen
 435,Müller-Rosentritt, Frank, FDP
+436,Müntefering, Michelle, SPD
 437,Münz, Volker, AfD
 438,Münzenmaier, Sebastian, AfD
+439,Mützenich, Dr. Rolf, SPD
+440,Nahles, Andrea, SPD
 441,Nastic, Zaklin, Die Linke
 442,Nestle, Ingrid Bündnis, 90/Die Grünen
 443,Neu, Dr. Alexander S., Die Linke
@@ -357,6 +446,8 @@
 445,Neumann, Prof. Dr. Martin, FDP
 446,Nick, Dr. Andreas, CDU/CSU
 447,Nicolaisen, Petra, CDU/CSU
+448,Nietan, Dietmar, SPD
+449,Nissen, Ulli, SPD
 450,Noll, Michaela, CDU/CSU
 451,Nolte, Jan Ralf, AfD
 452,Nord, Thomas, Die Linke
@@ -366,6 +457,10 @@
 456,Oehme, Ulrich, AfD
 457,Oellers, Wilfried, CDU/CSU
 458,Özdemir, Cem Bündnis, 90/Die Grünen
+459,Özdemir (Duisburg), Mahmut, SPD
+460,Özoğuz, Aydan, SPD
+461,Oppermann, Thomas, SPD
+462,Ortleb, Josephine, SPD
 463,Oßner, Florian, CDU/CSU
 464,Ostendorff, Friedrich Bündnis, 90/Die Grünen
 465,Oster, Josef, CDU/CSU
@@ -379,16 +474,24 @@
 473,Pellmann, Sören, Die Linke
 474,Perli, Victor, Die Linke
 475,Peterka, Tobias Matthias, AfD
+476,Petry, Christian, SPD
 477,Petry, Dr. Frauke, fraktionslos
 478,Pfeiffer, Dr. Joachim, CDU/CSU
 479,Pflüger, Tobias, Die Linke
+480,Pilger, Detlev, SPD
 481,Pilsinger, Stephan, CDU/CSU
 482,Ploß, Dr. Christoph, CDU/CSU
 483,Podolay, Paul Viktor, AfD
 484,Pohl, Jürgen, AfD
 485,Polat, Filiz Bündnis, 90/Die Grünen
 486,Pols, Eckhard, CDU/CSU
+487,Poschmann, Sabine, SPD
+488,Post (Minden), Achim, SPD
+489,Post, Florian, SPD
+490,Pronold, Florian, SPD
 491,Protschka, Stephan, AfD
+492,Raabe, Dr. Sascha, SPD
+493,Rabanus, Martin, SPD
 494,Rachel, Thomas, CDU/CSU
 495,Radomski, Kerstin, CDU/CSU
 496,Radwan, Alexander, CDU/CSU
@@ -405,46 +508,76 @@
 508,Riebsamen, Lothar, CDU/CSU
 509,Rief, Josef, CDU/CSU
 510,Riexinger, Bernd, Die Linke
+511,Rimkus, Andreas, SPD
+512,Rix, Sönke, SPD
 513,Röring, Johannes, CDU/CSU
+514,Röspel, René, SPD
 515,Rößner, Tabea Bündnis, 90/Die Grünen
 516,Röttgen, Dr. Norbert, CDU/CSU
+517,Rohde, Dennis, SPD
+518,Rosemann, Dr. Martin, SPD
+519,Rossmann, Dr. Ernst Dieter, SPD
 520,Roth (Augsburg), Claudia Bündnis, 90/Die Grünen
+521,Roth (Heringen), Michael, SPD
 522,Rottmann, Dr. Manuela Bündnis, 90/Die Grünen
 523,Rouenhoff, Stefan, CDU/CSU
 524,Rüddel, Erwin, CDU/CSU
 525,Rüffer, Corinna Bündnis, 90/Die Grünen
+526,Rüthrich, Susann, SPD
+527,Rützel, Bernd, SPD
 528,Ruppert, Dr. Stefan, FDP
 529,Rupprecht, Albert, CDU/CSU
+530,Ryglewski, Sarah, SPD
+531,Saathoff, Johann, SPD
 532,Sarrazin, Manuel Bündnis, 90/Die Grünen
 533,Sattelberger, Dr. h. c. Thomas, FDP
 534,Sauer, Stefan, CDU/CSU
 535,Sauter, Christian, FDP
 536,Schäfer (Saalstadt), Anita, CDU/CSU
+537,Schäfer (Bochum), Axel, SPD
 538,Schäffler, Frank, FDP
 539,Schäuble, Dr. Wolfgang, CDU/CSU
 540,Schauws, Ulle Bündnis, 90/Die Grünen
+541,Scheer, Dr. Nina, SPD
 542,Scheuer, Andreas, CDU/CSU
 543,Schick, Dr. Gerhard Bündnis, 90/Die Grünen
+544,Schieder, Marianne, SPD
+545,Schiefner, Udo, SPD
 546,Schielke-Ziesing, Ulrike, AfD
 547,Schimke, Jana, CDU/CSU
 548,Schinnenburg, Dr. Wieland, FDP
 549,Schipanski, Tankred, CDU/CSU
 550,Schlund, Dr. Robby, AfD
+551,Schmid, Dr. Nils, SPD
 552,Schmidt (Fürth), Christian, CDU/CSU
+553,Schmidt (Wetzlar), Dagmar, SPD
 554,Schmidt, Dr. Frithjof Bündnis, 90/Die Grünen
 555,Schmidt, Stefan Bündnis, 90/Die Grünen
+556,Schmidt (Aachen), Ulla, SPD
+557,Schmidt, Uwe, SPD
 558,Schmidtke, Prof. Dr. Claudia, CDU/CSU
+559,Schneider (Erfurt), Carsten, SPD
 560,Schneider, Jörg, AfD
 561,Schnieder, Patrick, CDU/CSU
 562,Schön, Nadine, CDU/CSU
+563,Schraps, Johannes, SPD
 564,Schreiber, Eva-Maria Elisabeth, Die Linke
 565,Schreiner, Felix, CDU/CSU
+566,Schrodi, Michael, SPD
+567,Schüle, Dr. Manja, SPD
+568,Schulte, Ursula, SPD
 569,Schulz, Jimmy, FDP
+570,Schulz, Martin, SPD
+571,Schulz (Spandau), Swen, SPD
 572,Schulz, Uwe, AfD
 573,Schulz-Asche, Kordula Bündnis, 90/Die Grünen
 574,Schulze, Dr. Klaus-Peter, CDU/CSU
 575,Schummer, Uwe, CDU/CSU
 577,Schuster (Weil am Rhein), Armin, CDU/CSU
+578,Schwabe, Frank, SPD
+579,Schwartze, Stefan, SPD
+580,Schwarz, Andreas, SPD
+581,Schwarzelühr-Sutter, Rita, SPD
 582,Schweiger, Torsten, CDU/CSU
 583,Seestern-Pauly, Matthias, FDP
 584,Seif, Detlef, CDU/CSU
@@ -464,13 +597,18 @@
 598,Spahn, Jens, CDU/CSU
 599,Spangenberg, Detlev, AfD
 600,Spaniel, Dr. Dirk, AfD
+601,Spiering, Rainer, SPD
 602,Springer, René, AfD
+603,Stadler, Svenja, SPD
 604,Staffler, Katrin, CDU/CSU
+605,Stamm-Fibich, Martina, SPD
 606,Stark-Watzinger, Bettina, FDP
 607,Steffel, Dr. Frank, CDU/CSU
+608,Steffen, Sonja Amalie, SPD
 609,Stefinger, Dr. Wolfgang, CDU/CSU
 610,Stegemann, Albert, CDU/CSU
 611,Steier, Andreas, CDU/CSU
+612,Stein, Mathias, SPD
 613,Stein (Rostock), Peter, CDU/CSU
 614,Steineke, Sebastian, CDU/CSU
 615,Steiniger, Johannes, CDU/CSU
@@ -489,19 +627,24 @@
 628,Stübgen, Michael, CDU/CSU
 629,Stumpp, Margit Bündnis, 90/Die Grünen
 630,Suding, Katja, FDP
+631,Tack, Kerstin, SPD
 632,Tackmann, Dr. Kirsten, Die Linke
 633,Tatti, Jessica, Die Linke
 634,Tauber, Dr. Peter, CDU/CSU
+635,Tausend, Claudia, SPD
 636,Tebroke, Dr. Hermann-Josef, CDU/CSU
 637,Teuteberg, Linda, FDP
 638,Theurer, Michael, FDP
+639,Thews, Michael, SPD
 640,Thies, Hans-Jürgen, CDU/CSU
 641,Thomae, Stephan, FDP
 642,Throm, Alexander, CDU/CSU
 643,Tiemann, Dr. Dietlind, CDU/CSU
 644,Tillmann, Antje, CDU/CSU
 645,Todtenhausen, Manfred, FDP
+646,Töns, Markus, SPD
 647,Toncar, Dr. Florian, FDP
+648,Träger, Carsten, SPD
 649,Tressel, Markus Bündnis, 90/Die Grünen
 650,Trittin, Jürgen Bündnis, 90/Die Grünen
 651,Uhl, Markus, CDU/CSU
@@ -513,9 +656,12 @@
 657,Veith, Oswin, CDU/CSU
 658,Verlinden, Dr. Julia Bündnis, 90/Die Grünen
 659,Vieregge, Kerstin, CDU/CSU
+660,Völlers, Marja-Liisa, SPD
+661,Vöpel, Dirk, SPD
 662,Vogel (Olpe), Johannes, FDP
 663,Vogel (Kleinsaara), Volkmar, CDU/CSU
 664,Vogler, Kathrin, Die Linke
+665,Vogt, Ute, SPD
 666,Vries, Christoph de, CDU/CSU
 667,Vries, Kees de, CDU/CSU
 668,Wadephul, Dr. Johann David, CDU/CSU
@@ -524,6 +670,7 @@
 671,Wagner, Daniela Bündnis, 90/Die Grünen
 672,Walter-Rosenheimer, Beate Bündnis, 90/Die Grünen
 673,Wanderwitz, Marco, CDU/CSU
+674,Weber, Gabi, SPD
 675,Weeser, Sandra, FDP
 676,Wegner, Kai, CDU/CSU
 677,Weidel, Dr. Alice, AfD
@@ -537,10 +684,12 @@
 685,Wendt, Marian, CDU/CSU
 686,Werner, Katrin, Die Linke
 687,Westig, Nicole, FDP
+688,Westphal, Bernd, SPD
 689,Weyel, Prof. Dr. Harald, AfD
 690,Whittaker, Kai, CDU/CSU
 691,Widmann-Mauz, Annette, CDU/CSU
 692,Wiehle, Wolfgang, AfD
+693,Wiese, Dirk, SPD
 694,Wiesmann, Bettina Margarethe, CDU/CSU
 695,Wildberg, Dr. Heiko, AfD
 696,Willsch, Klaus-Peter, CDU/CSU
@@ -548,9 +697,13 @@
 698,Wirth, Dr. Christian, AfD
 699,Witt, Uwe, AfD
 700,Wittke, Oliver, CDU/CSU
+701,Yüksel, Gülistan, SPD
 702,Zdebel, Hubertus, Die Linke
 703,Zeulner, Emmi, CDU/CSU
+704,Ziegler, Dagmar, SPD
 705,Ziemiak, Paul, CDU/CSU
+706,Zierke, Stefan, SPD
 707,Zimmer, Prof. Dr. Matthias, CDU/CSU
+708,Zimmermann, Dr. Jens, SPD
 709,Zimmermann, Pia, Die Linke
 710,Zimmermann (Zwickau), Sabine, Die Linke
